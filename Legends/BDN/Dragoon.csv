@@ -1,0 +1,106 @@
+Item Name,EnchantLevel,EnchantRatio,BreakRatio,MinDowngrade,MaxDowngrade,Gold
+Black Dragon Victoria Bonnet,1,100.0,0.0,0,0,3
+Black Dragon Victoria Bonnet,2,100.0,0.0,0,0,10
+Black Dragon Victoria Bonnet,3,100.0,0.0,0,0,27
+Black Dragon Victoria Bonnet,4,100.0,0.0,0,0,54
+Black Dragon Victoria Bonnet,5,100.0,0.0,0,0,108
+Black Dragon Victoria Bonnet,6,100.0,0.0,0,0,217
+Black Dragon Victoria Bonnet,7,33.33,25.0,0,1,325
+Black Dragon Victoria Bonnet,8,33.33,25.0,0,1,488
+Black Dragon Victoria Bonnet,9,33.33,25.0,0,1,723
+Black Dragon Victoria Bonnet,10,33.33,25.0,0,1,1085
+Black Dragon Victoria Bonnet,11,33.33,25.0,0,1,1302
+Black Dragon Victoria Bonnet,12,33.33,25.0,0,2,1519
+Black Dragon Victoria Bonnet,13,15.0,25.0,1,2,1808
+Black Dragon Victoria Bonnet,14,5.0,25.0,1,2,2712
+Black Dragon Victoria Bonnet,15,1.0,25.0,1,2,4340
+Black Dragon Victoria Blouse,1,100.0,0.0,0,0,7
+Black Dragon Victoria Blouse,2,100.0,0.0,0,0,21
+Black Dragon Victoria Blouse,3,100.0,0.0,0,0,54
+Black Dragon Victoria Blouse,4,100.0,0.0,0,0,108
+Black Dragon Victoria Blouse,5,100.0,0.0,0,0,217
+Black Dragon Victoria Blouse,6,100.0,0.0,0,0,434
+Black Dragon Victoria Blouse,7,33.33,25.0,0,1,651
+Black Dragon Victoria Blouse,8,33.33,25.0,0,1,976
+Black Dragon Victoria Blouse,9,33.33,25.0,0,1,1446
+Black Dragon Victoria Blouse,10,33.33,25.0,0,1,2170
+Black Dragon Victoria Blouse,11,33.33,25.0,0,1,2604
+Black Dragon Victoria Blouse,12,33.33,25.0,0,2,3038
+Black Dragon Victoria Blouse,13,15.0,25.0,1,2,3617
+Black Dragon Victoria Blouse,14,5.0,25.0,1,2,5425
+Black Dragon Victoria Blouse,15,1.0,25.0,1,2,8681
+Black Dragon Victoria Knee Socks,1,100.0,0.0,0,0,6
+Black Dragon Victoria Knee Socks,2,100.0,0.0,0,0,19
+Black Dragon Victoria Knee Socks,3,100.0,0.0,0,0,48
+Black Dragon Victoria Knee Socks,4,100.0,0.0,0,0,96
+Black Dragon Victoria Knee Socks,5,100.0,0.0,0,0,192
+Black Dragon Victoria Knee Socks,6,100.0,0.0,0,0,385
+Black Dragon Victoria Knee Socks,7,33.33,25.0,0,1,578
+Black Dragon Victoria Knee Socks,8,33.33,25.0,0,1,867
+Black Dragon Victoria Knee Socks,9,33.33,25.0,0,1,1284
+Black Dragon Victoria Knee Socks,10,33.33,25.0,0,1,1926
+Black Dragon Victoria Knee Socks,11,33.33,25.0,0,1,2312
+Black Dragon Victoria Knee Socks,12,33.33,25.0,0,2,2697
+Black Dragon Victoria Knee Socks,13,15.0,25.0,1,2,3211
+Black Dragon Victoria Knee Socks,14,5.0,25.0,1,2,4817
+Black Dragon Victoria Knee Socks,15,1.0,25.0,1,2,7707
+Black Dragon Victoria Gloves,1,100.0,0.0,0,0,2
+Black Dragon Victoria Gloves,2,100.0,0.0,0,0,7
+Black Dragon Victoria Gloves,3,100.0,0.0,0,0,17
+Black Dragon Victoria Gloves,4,100.0,0.0,0,0,35
+Black Dragon Victoria Gloves,5,100.0,0.0,0,0,70
+Black Dragon Victoria Gloves,6,100.0,0.0,0,0,140
+Black Dragon Victoria Gloves,7,33.33,25.0,0,1,210
+Black Dragon Victoria Gloves,8,33.33,25.0,0,1,315
+Black Dragon Victoria Gloves,9,33.33,25.0,0,1,467
+Black Dragon Victoria Gloves,10,33.33,25.0,0,1,700
+Black Dragon Victoria Gloves,11,33.33,25.0,0,1,840
+Black Dragon Victoria Gloves,12,33.33,25.0,0,2,980
+Black Dragon Victoria Gloves,13,15.0,25.0,1,2,1167
+Black Dragon Victoria Gloves,14,5.0,25.0,1,2,1751
+Black Dragon Victoria Gloves,15,1.0,25.0,1,2,2802
+Black Dragon Victoria Sandals,1,100.0,0.0,0,0,2
+Black Dragon Victoria Sandals,2,100.0,0.0,0,0,6
+Black Dragon Victoria Sandals,3,100.0,0.0,0,0,15
+Black Dragon Victoria Sandals,4,100.0,0.0,0,0,31
+Black Dragon Victoria Sandals,5,100.0,0.0,0,0,62
+Black Dragon Victoria Sandals,6,100.0,0.0,0,0,124
+Black Dragon Victoria Sandals,7,33.33,25.0,0,1,186
+Black Dragon Victoria Sandals,8,33.33,25.0,0,1,279
+Black Dragon Victoria Sandals,9,33.33,25.0,0,1,413
+Black Dragon Victoria Sandals,10,33.33,25.0,0,1,620
+Black Dragon Victoria Sandals,11,33.33,25.0,0,1,744
+Black Dragon Victoria Sandals,12,33.33,25.0,0,2,868
+Black Dragon Victoria Sandals,13,15.0,25.0,1,2,1033
+Black Dragon Victoria Sandals,14,5.0,25.0,1,2,1550
+Black Dragon Victoria Sandals,15,1.0,25.0,1,2,2480
+Black Dragon Victoria Spear,1,100.0,0.0,0,0,23
+Black Dragon Victoria Spear,2,100.0,0.0,0,0,70
+Black Dragon Victoria Spear,3,100.0,0.0,0,0,175
+Black Dragon Victoria Spear,4,100.0,0.0,0,0,350
+Black Dragon Victoria Spear,5,100.0,0.0,0,0,700
+Black Dragon Victoria Spear,6,100.0,0.0,0,0,1401
+Black Dragon Victoria Spear,7,33.33,25.0,0,1,2102
+Black Dragon Victoria Spear,8,33.33,25.0,0,1,3153
+Black Dragon Victoria Spear,9,33.33,25.0,0,1,4671
+Black Dragon Victoria Spear,10,33.33,25.0,0,1,7006
+Black Dragon Victoria Spear,11,33.33,25.0,0,1,8408
+Black Dragon Victoria Spear,12,33.33,25.0,0,2,9809
+Black Dragon Victoria Spear,13,15.0,25.0,1,2,11678
+Black Dragon Victoria Spear,14,5.0,25.0,1,2,17517
+Black Dragon Victoria Spear,15,1.0,25.0,1,2,28027
+Black Dragon Victoria Bracelets,1,100.0,0.0,0,0,10
+Black Dragon Victoria Bracelets,2,100.0,0.0,0,0,31
+Black Dragon Victoria Bracelets,3,100.0,0.0,0,0,77
+Black Dragon Victoria Bracelets,4,100.0,0.0,0,0,155
+Black Dragon Victoria Bracelets,5,100.0,0.0,0,0,310
+Black Dragon Victoria Bracelets,6,100.0,0.0,0,0,620
+Black Dragon Victoria Bracelets,7,33.33,25.0,0,1,930
+Black Dragon Victoria Bracelets,8,33.33,25.0,0,1,1395
+Black Dragon Victoria Bracelets,9,33.33,25.0,0,1,2066
+Black Dragon Victoria Bracelets,10,33.33,25.0,0,1,3100
+Black Dragon Victoria Bracelets,11,33.33,25.0,0,1,3720
+Black Dragon Victoria Bracelets,12,33.33,25.0,0,2,4340
+Black Dragon Victoria Bracelets,13,15.0,25.0,1,2,5167
+Black Dragon Victoria Bracelets,14,5.0,25.0,1,2,7751
+Black Dragon Victoria Bracelets,15,1.0,25.0,1,2,12401

@@ -1,0 +1,106 @@
+Item Name,EnchantLevel,EnchantRatio,BreakRatio,MinDowngrade,MaxDowngrade,Gold
+Black Dragon Changer Beret,1,100.0,0.0,0,0,3
+Black Dragon Changer Beret,2,100.0,0.0,0,0,10
+Black Dragon Changer Beret,3,100.0,0.0,0,0,27
+Black Dragon Changer Beret,4,100.0,0.0,0,0,54
+Black Dragon Changer Beret,5,100.0,0.0,0,0,108
+Black Dragon Changer Beret,6,100.0,0.0,0,0,217
+Black Dragon Changer Beret,7,33.33,25.0,0,1,325
+Black Dragon Changer Beret,8,33.33,25.0,0,1,488
+Black Dragon Changer Beret,9,33.33,25.0,0,1,723
+Black Dragon Changer Beret,10,33.33,25.0,0,1,1085
+Black Dragon Changer Beret,11,33.33,25.0,0,1,1302
+Black Dragon Changer Beret,12,33.33,25.0,0,2,1519
+Black Dragon Changer Beret,13,15.0,25.0,1,2,1808
+Black Dragon Changer Beret,14,5.0,25.0,1,2,2712
+Black Dragon Changer Beret,15,1.0,25.0,1,2,4340
+Black Dragon Changer Tunic,1,100.0,0.0,0,0,8
+Black Dragon Changer Tunic,2,100.0,0.0,0,0,24
+Black Dragon Changer Tunic,3,100.0,0.0,0,0,61
+Black Dragon Changer Tunic,4,100.0,0.0,0,0,122
+Black Dragon Changer Tunic,5,100.0,0.0,0,0,245
+Black Dragon Changer Tunic,6,100.0,0.0,0,0,490
+Black Dragon Changer Tunic,7,33.33,25.0,0,1,735
+Black Dragon Changer Tunic,8,33.33,25.0,0,1,1103
+Black Dragon Changer Tunic,9,33.33,25.0,0,1,1634
+Black Dragon Changer Tunic,10,33.33,25.0,0,1,2452
+Black Dragon Changer Tunic,11,33.33,25.0,0,1,2942
+Black Dragon Changer Tunic,12,33.33,25.0,0,2,3433
+Black Dragon Changer Tunic,13,15.0,25.0,1,2,4087
+Black Dragon Changer Tunic,14,5.0,25.0,1,2,6131
+Black Dragon Changer Tunic,15,1.0,25.0,1,2,9809
+Black Dragon Changer Slacks,1,100.0,0.0,0,0,5
+Black Dragon Changer Slacks,2,100.0,0.0,0,0,17
+Black Dragon Changer Slacks,3,100.0,0.0,0,0,42
+Black Dragon Changer Slacks,4,100.0,0.0,0,0,85
+Black Dragon Changer Slacks,5,100.0,0.0,0,0,170
+Black Dragon Changer Slacks,6,100.0,0.0,0,0,341
+Black Dragon Changer Slacks,7,33.33,25.0,0,1,511
+Black Dragon Changer Slacks,8,33.33,25.0,0,1,767
+Black Dragon Changer Slacks,9,33.33,25.0,0,1,1136
+Black Dragon Changer Slacks,10,33.33,25.0,0,1,1705
+Black Dragon Changer Slacks,11,33.33,25.0,0,1,2046
+Black Dragon Changer Slacks,12,33.33,25.0,0,2,2387
+Black Dragon Changer Slacks,13,15.0,25.0,1,2,2842
+Black Dragon Changer Slacks,14,5.0,25.0,1,2,4263
+Black Dragon Changer Slacks,15,1.0,25.0,1,2,6820
+Black Dragon Changer Power Mitten,1,100.0,0.0,0,0,2
+Black Dragon Changer Power Mitten,2,100.0,0.0,0,0,7
+Black Dragon Changer Power Mitten,3,100.0,0.0,0,0,17
+Black Dragon Changer Power Mitten,4,100.0,0.0,0,0,35
+Black Dragon Changer Power Mitten,5,100.0,0.0,0,0,70
+Black Dragon Changer Power Mitten,6,100.0,0.0,0,0,140
+Black Dragon Changer Power Mitten,7,33.33,25.0,0,1,210
+Black Dragon Changer Power Mitten,8,33.33,25.0,0,1,315
+Black Dragon Changer Power Mitten,9,33.33,25.0,0,1,467
+Black Dragon Changer Power Mitten,10,33.33,25.0,0,1,700
+Black Dragon Changer Power Mitten,11,33.33,25.0,0,1,840
+Black Dragon Changer Power Mitten,12,33.33,25.0,0,2,980
+Black Dragon Changer Power Mitten,13,15.0,25.0,1,2,1167
+Black Dragon Changer Power Mitten,14,5.0,25.0,1,2,1751
+Black Dragon Changer Power Mitten,15,1.0,25.0,1,2,2802
+Black Dragon Changer Round Shoes,1,100.0,0.0,0,0,2
+Black Dragon Changer Round Shoes,2,100.0,0.0,0,0,6
+Black Dragon Changer Round Shoes,3,100.0,0.0,0,0,15
+Black Dragon Changer Round Shoes,4,100.0,0.0,0,0,31
+Black Dragon Changer Round Shoes,5,100.0,0.0,0,0,62
+Black Dragon Changer Round Shoes,6,100.0,0.0,0,0,124
+Black Dragon Changer Round Shoes,7,33.33,25.0,0,1,186
+Black Dragon Changer Round Shoes,8,33.33,25.0,0,1,279
+Black Dragon Changer Round Shoes,9,33.33,25.0,0,1,413
+Black Dragon Changer Round Shoes,10,33.33,25.0,0,1,620
+Black Dragon Changer Round Shoes,11,33.33,25.0,0,1,744
+Black Dragon Changer Round Shoes,12,33.33,25.0,0,2,868
+Black Dragon Changer Round Shoes,13,15.0,25.0,1,2,1033
+Black Dragon Changer Round Shoes,14,5.0,25.0,1,2,1550
+Black Dragon Changer Round Shoes,15,1.0,25.0,1,2,2480
+Black Dragon Changer Bubble Gun,1,100.0,0.0,0,0,20
+Black Dragon Changer Bubble Gun,2,100.0,0.0,0,0,62
+Black Dragon Changer Bubble Gun,3,100.0,0.0,0,0,155
+Black Dragon Changer Bubble Gun,4,100.0,0.0,0,0,310
+Black Dragon Changer Bubble Gun,5,100.0,0.0,0,0,620
+Black Dragon Changer Bubble Gun,6,100.0,0.0,0,0,1240
+Black Dragon Changer Bubble Gun,7,33.33,25.0,0,1,1860
+Black Dragon Changer Bubble Gun,8,33.33,25.0,0,1,2790
+Black Dragon Changer Bubble Gun,9,33.33,25.0,0,1,4133
+Black Dragon Changer Bubble Gun,10,33.33,25.0,0,1,6200
+Black Dragon Changer Bubble Gun,11,33.33,25.0,0,1,7441
+Black Dragon Changer Bubble Gun,12,33.33,25.0,0,2,8681
+Black Dragon Changer Bubble Gun,13,15.0,25.0,1,2,10334
+Black Dragon Changer Bubble Gun,14,5.0,25.0,1,2,15502
+Black Dragon Changer Bubble Gun,15,1.0,25.0,1,2,24803
+Black Dragon Changer Mecha Glove,1,100.0,0.0,0,0,11
+Black Dragon Changer Mecha Glove,2,100.0,0.0,0,0,35
+Black Dragon Changer Mecha Glove,3,100.0,0.0,0,0,87
+Black Dragon Changer Mecha Glove,4,100.0,0.0,0,0,175
+Black Dragon Changer Mecha Glove,5,100.0,0.0,0,0,350
+Black Dragon Changer Mecha Glove,6,100.0,0.0,0,0,700
+Black Dragon Changer Mecha Glove,7,33.33,25.0,0,1,1051
+Black Dragon Changer Mecha Glove,8,33.33,25.0,0,1,1576
+Black Dragon Changer Mecha Glove,9,33.33,25.0,0,1,2335
+Black Dragon Changer Mecha Glove,10,33.33,25.0,0,1,3503
+Black Dragon Changer Mecha Glove,11,33.33,25.0,0,1,4204
+Black Dragon Changer Mecha Glove,12,33.33,25.0,0,2,4904
+Black Dragon Changer Mecha Glove,13,15.0,25.0,1,2,5839
+Black Dragon Changer Mecha Glove,14,5.0,25.0,1,2,8758
+Black Dragon Changer Mecha Glove,15,1.0,25.0,1,2,14013

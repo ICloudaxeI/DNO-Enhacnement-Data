@@ -1,0 +1,106 @@
+Item Name,EnchantLevel,EnchantRatio,BreakRatio,MinDowngrade,MaxDowngrade,Gold
+Black Dragon Meditation Mask,1,100.0,0.0,0,0,4
+Black Dragon Meditation Mask,2,100.0,0.0,0,0,12
+Black Dragon Meditation Mask,3,100.0,0.0,0,0,30
+Black Dragon Meditation Mask,4,100.0,0.0,0,0,61
+Black Dragon Meditation Mask,5,100.0,0.0,0,0,122
+Black Dragon Meditation Mask,6,100.0,0.0,0,0,245
+Black Dragon Meditation Mask,7,33.33,25.0,0,1,367
+Black Dragon Meditation Mask,8,33.33,25.0,0,1,551
+Black Dragon Meditation Mask,9,33.33,25.0,0,1,817
+Black Dragon Meditation Mask,10,33.33,25.0,0,1,1226
+Black Dragon Meditation Mask,11,33.33,25.0,0,1,1471
+Black Dragon Meditation Mask,12,33.33,25.0,0,2,1716
+Black Dragon Meditation Mask,13,15.0,25.0,1,2,2043
+Black Dragon Meditation Mask,14,5.0,25.0,1,2,3065
+Black Dragon Meditation Mask,15,1.0,25.0,1,2,4904
+Black Dragon Meditation Vest,1,100.0,0.0,0,0,7
+Black Dragon Meditation Vest,2,100.0,0.0,0,0,21
+Black Dragon Meditation Vest,3,100.0,0.0,0,0,54
+Black Dragon Meditation Vest,4,100.0,0.0,0,0,108
+Black Dragon Meditation Vest,5,100.0,0.0,0,0,217
+Black Dragon Meditation Vest,6,100.0,0.0,0,0,434
+Black Dragon Meditation Vest,7,33.33,25.0,0,1,651
+Black Dragon Meditation Vest,8,33.33,25.0,0,1,976
+Black Dragon Meditation Vest,9,33.33,25.0,0,1,1446
+Black Dragon Meditation Vest,10,33.33,25.0,0,1,2170
+Black Dragon Meditation Vest,11,33.33,25.0,0,1,2604
+Black Dragon Meditation Vest,12,33.33,25.0,0,2,3038
+Black Dragon Meditation Vest,13,15.0,25.0,1,2,3617
+Black Dragon Meditation Vest,14,5.0,25.0,1,2,5425
+Black Dragon Meditation Vest,15,1.0,25.0,1,2,8681
+Black Dragon Meditation Greaves,1,100.0,0.0,0,0,6
+Black Dragon Meditation Greaves,2,100.0,0.0,0,0,19
+Black Dragon Meditation Greaves,3,100.0,0.0,0,0,48
+Black Dragon Meditation Greaves,4,100.0,0.0,0,0,96
+Black Dragon Meditation Greaves,5,100.0,0.0,0,0,192
+Black Dragon Meditation Greaves,6,100.0,0.0,0,0,385
+Black Dragon Meditation Greaves,7,33.33,25.0,0,1,578
+Black Dragon Meditation Greaves,8,33.33,25.0,0,1,867
+Black Dragon Meditation Greaves,9,33.33,25.0,0,1,1284
+Black Dragon Meditation Greaves,10,33.33,25.0,0,1,1926
+Black Dragon Meditation Greaves,11,33.33,25.0,0,1,2312
+Black Dragon Meditation Greaves,12,33.33,25.0,0,2,2697
+Black Dragon Meditation Greaves,13,15.0,25.0,1,2,3211
+Black Dragon Meditation Greaves,14,5.0,25.0,1,2,4817
+Black Dragon Meditation Greaves,15,1.0,25.0,1,2,7707
+Black Dragon Meditation Wrist Guards,1,100.0,0.0,0,0,2
+Black Dragon Meditation Wrist Guards,2,100.0,0.0,0,0,6
+Black Dragon Meditation Wrist Guards,3,100.0,0.0,0,0,15
+Black Dragon Meditation Wrist Guards,4,100.0,0.0,0,0,31
+Black Dragon Meditation Wrist Guards,5,100.0,0.0,0,0,62
+Black Dragon Meditation Wrist Guards,6,100.0,0.0,0,0,124
+Black Dragon Meditation Wrist Guards,7,33.33,25.0,0,1,186
+Black Dragon Meditation Wrist Guards,8,33.33,25.0,0,1,279
+Black Dragon Meditation Wrist Guards,9,33.33,25.0,0,1,413
+Black Dragon Meditation Wrist Guards,10,33.33,25.0,0,1,620
+Black Dragon Meditation Wrist Guards,11,33.33,25.0,0,1,744
+Black Dragon Meditation Wrist Guards,12,33.33,25.0,0,2,868
+Black Dragon Meditation Wrist Guards,13,15.0,25.0,1,2,1033
+Black Dragon Meditation Wrist Guards,14,5.0,25.0,1,2,1550
+Black Dragon Meditation Wrist Guards,15,1.0,25.0,1,2,2480
+Black Dragon Meditation Sandals,1,100.0,0.0,0,0,2
+Black Dragon Meditation Sandals,2,100.0,0.0,0,0,6
+Black Dragon Meditation Sandals,3,100.0,0.0,0,0,15
+Black Dragon Meditation Sandals,4,100.0,0.0,0,0,31
+Black Dragon Meditation Sandals,5,100.0,0.0,0,0,62
+Black Dragon Meditation Sandals,6,100.0,0.0,0,0,124
+Black Dragon Meditation Sandals,7,33.33,25.0,0,1,186
+Black Dragon Meditation Sandals,8,33.33,25.0,0,1,279
+Black Dragon Meditation Sandals,9,33.33,25.0,0,1,413
+Black Dragon Meditation Sandals,10,33.33,25.0,0,1,620
+Black Dragon Meditation Sandals,11,33.33,25.0,0,1,744
+Black Dragon Meditation Sandals,12,33.33,25.0,0,2,868
+Black Dragon Meditation Sandals,13,15.0,25.0,1,2,1033
+Black Dragon Meditation Sandals,14,5.0,25.0,1,2,1550
+Black Dragon Meditation Sandals,15,1.0,25.0,1,2,2480
+Black Dragon Meditation Dagger,1,100.0,0.0,0,0,20
+Black Dragon Meditation Dagger,2,100.0,0.0,0,0,62
+Black Dragon Meditation Dagger,3,100.0,0.0,0,0,155
+Black Dragon Meditation Dagger,4,100.0,0.0,0,0,310
+Black Dragon Meditation Dagger,5,100.0,0.0,0,0,620
+Black Dragon Meditation Dagger,6,100.0,0.0,0,0,1240
+Black Dragon Meditation Dagger,7,33.33,25.0,0,1,1860
+Black Dragon Meditation Dagger,8,33.33,25.0,0,1,2790
+Black Dragon Meditation Dagger,9,33.33,25.0,0,1,4133
+Black Dragon Meditation Dagger,10,33.33,25.0,0,1,6200
+Black Dragon Meditation Dagger,11,33.33,25.0,0,1,7441
+Black Dragon Meditation Dagger,12,33.33,25.0,0,2,8681
+Black Dragon Meditation Dagger,13,15.0,25.0,1,2,10334
+Black Dragon Meditation Dagger,14,5.0,25.0,1,2,15502
+Black Dragon Meditation Dagger,15,1.0,25.0,1,2,24803
+Black Dragon Meditation Arm Blade,1,100.0,0.0,0,0,10
+Black Dragon Meditation Arm Blade,2,100.0,0.0,0,0,31
+Black Dragon Meditation Arm Blade,3,100.0,0.0,0,0,77
+Black Dragon Meditation Arm Blade,4,100.0,0.0,0,0,155
+Black Dragon Meditation Arm Blade,5,100.0,0.0,0,0,310
+Black Dragon Meditation Arm Blade,6,100.0,0.0,0,0,620
+Black Dragon Meditation Arm Blade,7,33.33,25.0,0,1,930
+Black Dragon Meditation Arm Blade,8,33.33,25.0,0,1,1395
+Black Dragon Meditation Arm Blade,9,33.33,25.0,0,1,2066
+Black Dragon Meditation Arm Blade,10,33.33,25.0,0,1,3100
+Black Dragon Meditation Arm Blade,11,33.33,25.0,0,1,3720
+Black Dragon Meditation Arm Blade,12,33.33,25.0,0,2,4340
+Black Dragon Meditation Arm Blade,13,15.0,25.0,1,2,5167
+Black Dragon Meditation Arm Blade,14,5.0,25.0,1,2,7751
+Black Dragon Meditation Arm Blade,15,1.0,25.0,1,2,12401
